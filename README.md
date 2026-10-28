@@ -14,8 +14,8 @@ My name is **Aram** and I am a young programmer from Czech Republic
 - **GPU** Nvidia RTX 4050 Mobile
 
 ## Contact
-[Discord](https://discordapp.com/users/1511756108031590452)
-[E-Mail](mailto:aramcz@protonmail.com)
+- [Discord](https://discordapp.com/users/1511756108031590452)
+- [E-Mail](mailto:aramcz@protonmail.com)
 
 
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=AramCZdev)](https://github.com/stats-organization/github-stats-extended)
